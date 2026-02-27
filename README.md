@@ -7,10 +7,10 @@ These learning materials for undergraduate and graduate data mining courses are 
 
 ### Exploratory Data Analysis
 
-| | Description |
-| --- | --- |
-| 2.A. | [Part 2A: Explore and Describe Dataset](https://yanyudm.github.io/Data-Mining-Python/Exploratory%20Data%20Analysis/2_A_Explore_and_describe_dataset.html) |
-| 2.B. | [Part 2B: Exploratory Data Analysis by Visualization](https://yanyudm.github.io/Data-Mining-Python/Exploratory%20Data%20Analysis/2_B_Exploratory_Data_Analysis_by_Visualization.html)|
+| |
+| --- |
+| [2.A. Explore and Describe Dataset](https://yanyudm.github.io/Data-Mining-Python/Exploratory%20Data%20Analysis/2_A_Explore_and_describe_dataset.html) |
+| [2.B. Exploratory Data Analysis by Visualization](https://yanyudm.github.io/Data-Mining-Python/Exploratory%20Data%20Analysis/2_B_Exploratory_Data_Analysis_by_Visualization.html)|
 
 ### Linear Regression, Prediction and Variables Selection
 
