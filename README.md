@@ -7,17 +7,17 @@ These learning materials for undergraduate and graduate data mining courses are 
 
 | Lab Notes |
 | :--- |
-| [1.A Introduction to Data Mining](https://yanyudm.github.io/Data-Mining-Python/Introduction%20to%20Data%20Mining%20and%20Python/1_A_Introduction_to_Data_Mining.html) |
-| [1.B Introduction to Python](https://yanyudm.github.io/Data-Mining-Python/Introduction%20to%20Data%20Mining%20and%20Python/1_B_Introduction_to_Python.html) |
-| [1.C Advanced Techniques: Functions and Loops](https://yanyudm.github.io/Data-Mining-Python/Introduction%20to%20Data%20Mining%20and%20Python/1_C_Advanced_techniques_function_and_loop.html) |
-| [1.D Introduction to Markdown](https://yanyudm.github.io/Data-Mining-Python/Introduction%20to%20Data%20Mining%20and%20Python/1_D_Introduction_to_Markdown.html) |
+| [1.A Introduction to Data Mining](https://yanyudm.github.io/Data-Mining-Python/1.%20Introduction%20to%20Data%20Mining%20and%20Python/1_A_Introduction_to_Data_Mining.html) |
+| [1.B Introduction to Python](https://yanyudm.github.io/Data-Mining-Python/1.%20Introduction%20to%20Data%20Mining%20and%20Python/1_B_Introduction_to_Python.html) |
+| [1.C Advanced Techniques: Functions and Loops](https://yanyudm.github.io/Data-Mining-Python/1.%20Introduction%20to%20Data%20Mining%20and%20Python/1_C_Advanced_techniques_function_and_loop.html) |
+| [1.D Introduction to Markdown](https://yanyudm.github.io/Data-Mining-Python/1.%20Introduction%20to%20Data%20Mining%20and%20Python/1_D_Introduction_to_Markdown.html) |
 
 ### Exploratory Data Analysis
 
 | Lab Notes |
 | :--- |
-| [2.A Explore and Describe Dataset](https://yanyudm.github.io/Data-Mining-Python/Exploratory%20Data%20Analysis/2_A_Explore_and_describe_dataset.html) |
-| [2.B Exploratory Data Analysis by Visualization](https://yanyudm.github.io/Data-Mining-Python/Exploratory%20Data%20Analysis/2_B_Exploratory_Data_Analysis_by_Visualization.html)|
+| [2.A Explore and Describe Dataset](https://yanyudm.github.io/Data-Mining-Python/2.%20Exploratory%20Data%20Analysis/2_A_Explore_and_describe_dataset.html) |
+| [2.B Exploratory Data Analysis by Visualization](https://yanyudm.github.io/Data-Mining-Python/2.%20Exploratory%20Data%20Analysis/2_B_Exploratory_Data_Analysis_by_Visualization.html)|
 
 ### Linear Regression, Prediction and Variables Selection
 
