@@ -30,6 +30,13 @@ These learning materials for undergraduate and graduate data mining courses are 
 
 ### Logistic Regression
 
+| Lab Notes |
+| :--- |
+| [4.A Logistic Regression and Prediction](https://yanyudm.github.io/Data-Mining-Python/4.%20Logistic%20Regression/4_A_Logistic_regression_and_prediction.html) |
+| [4.B Logistic Regression and Variable Selection](https://yanyudm.github.io/Data-Mining-Python/4.%20Logistic%20Regression/4_B_Logistic_regression_and_variable_selection.html) |
+| [4.C Logistic Regression for Binary Classification](https://yanyudm.github.io/Data-Mining-Python/4.%20Logistic%20Regression/4_C_Logistic_regression_for_binary_classification.html) |
+| [4.D Logistic Regression and ROC](https://yanyudm.github.io/Data-Mining-Python/4.%20Logistic%20Regression/4_D_Logistic_regression_prediction_ROC.html) |
+
 ### Cross Validation
 
 ### Tree Models
