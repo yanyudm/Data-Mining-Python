@@ -39,6 +39,11 @@ These learning materials for undergraduate and graduate data mining courses are 
 
 ### Cross Validation
 
+| Lab Notes |
+| :--- |
+| [5.A Cross Validation](https://yanyudm.github.io/Data-Mining-Python/5.%20Cross%20Validation/5_A_Cross_Validation.html) |
+| [5.B Cross Validation (Logit Model)](https://yanyudm.github.io/Data-Mining-Python/5.%20Cross%20Validation/5_B_Cross_Validation_logit.html) |
+
 ### Tree Models
 
 ### Advanced Tree Models: Bagging, Random Forests, and Boosting Trees
