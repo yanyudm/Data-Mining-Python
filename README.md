@@ -3,7 +3,7 @@ These learning materials for undergraduate and graduate data mining courses are 
 
 Contributors:
 
-* Adriana Gonzalez Sanchez, PhD Candidate
+* Adriana Gonzalez Sanchez, PhD Candidate in Business Analytics
 * Zhaohu (Jonathan) Fan, Ph.D. in Business Analytics
 * Amin Aminimehr, Ph.D. student in Business Analytics
 * Harsh Singal, M.S. in Business Analytics (current position: Data Scientist - Product Analytics at Asurion)
