@@ -75,6 +75,10 @@ These learning materials for undergraduate and graduate data mining courses are 
 
 ### Unsupervised Learning: Clustering
 
+| Lab Notes |
+| :--- |
+| [10 Clustering](https://yanyudm.github.io/Data-Mining-Python/10.%20Clustering/10_Clustering.html) |
+
 ### Unsupervised Learning: Association Rules
 
 ### Other Topic: Basic Text Mining
