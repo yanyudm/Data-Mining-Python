@@ -63,6 +63,7 @@ These learning materials for undergraduate and graduate data mining courses are 
 | Lab Notes |
 | :--- |
 | [8.A Univariate Nonparametric Smoothing](https://yanyudm.github.io/Data-Mining-Python/8.%20GAM/8_A_Univariate_Nonparametric_Smoothing.html) |
+| [8.B Generalized Additive Model (GAM)](https://yanyudm.github.io/Data-Mining-Python/8.%20GAM/8_B_Generalized_Additive_Model.html) |
 
 ### Neural Networks, LDA and SVM
 
