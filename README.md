@@ -10,8 +10,6 @@ Contributors:
 
 ## Lecture and Lab Notes
 
----
-
 ### Exploratory Data Analysis
 
 | | Description |
