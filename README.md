@@ -10,7 +10,7 @@ These learning materials for undergraduate and graduate data mining courses are 
 | [1.A Introduction to Data Mining](https://yanyudm.github.io/Data-Mining-Python/1.%20Introduction%20to%20Data%20Mining%20and%20Python/1_A_Introduction_to_Data_Mining.html) |
 | [1.B Introduction to Python](https://yanyudm.github.io/Data-Mining-Python/1.%20Introduction%20to%20Data%20Mining%20and%20Python/1_B_Introduction_to_Python.html) |
 | [1.C Advanced Techniques: Functions and Loops](https://yanyudm.github.io/Data-Mining-Python/1.%20Introduction%20to%20Data%20Mining%20and%20Python/1_C_Advanced_techniques_function_and_loop.html) |
-| [1.D Introduction to Markdown](https://yanyudm.github.io/Data-Mining-Python/1.%20Introduction%20to%20Data%20Mining%20and%20Python/1_D_Introduction_to_Markdown.html) |
+| [1.D Introduction to Markdown (Optional)](https://yanyudm.github.io/Data-Mining-Python/1.%20Introduction%20to%20Data%20Mining%20and%20Python/1_D_Introduction_to_Markdown.html) |
 
 ### Exploratory Data Analysis
 
@@ -26,7 +26,7 @@ These learning materials for undergraduate and graduate data mining courses are 
 | [3.A Linear Regression and Prediction](https://yanyudm.github.io/Data-Mining-Python/3.%20Linear%20Regression/3_A_Linear_regression_and_prediction.html) |
 | [3.B Subset Variable Selection](https://yanyudm.github.io/Data-Mining-Python/3.%20Linear%20Regression/3_B_Subset_Variable_Selection.html) |
 | [3.C LASSO Variable Selection](https://yanyudm.github.io/Data-Mining-Python/3.%20Linear%20Regression/3_C_LASSO_variable_selection.html) |
-| [3.D Monte Carlo Simulation](https://yanyudm.github.io/Data-Mining-Python/3.%20Linear%20Regression/3_D_Simulation.html) |
+| [3.D Monte Carlo Simulation (Optional)](https://yanyudm.github.io/Data-Mining-Python/3.%20Linear%20Regression/3_D_Simulation.html) |
 
 ### Logistic Regression
 
@@ -66,6 +66,12 @@ These learning materials for undergraduate and graduate data mining courses are 
 | [8.B Generalized Additive Model (GAM)](https://yanyudm.github.io/Data-Mining-Python/8.%20GAM/8_B_Generalized_Additive_Model.html) |
 
 ### Neural Networks, LDA and SVM
+
+| Lab Notes |
+| :--- |
+| [9.A Neural Network Models](https://yanyudm.github.io/Data-Mining-Python/9.%20Neural%20Network/9_A_Neural_Networks_Models.html) |
+| [9.B Discriminant Analysis (Optional)](https://yanyudm.github.io/Data-Mining-Python/9.%20Neural%20Network/9_B_Discriminant_analysis.html) |
+| [9.C Support Vector Machines (SVM) (Optional)](https://yanyudm.github.io/Data-Mining-Python/9.%20Neural%20Network/9_C_Support_vector_machine.html) |
 
 ### Unsupervised Learning: Clustering
 
