@@ -53,6 +53,11 @@ These learning materials for undergraduate and graduate data mining courses are 
 
 ### Advanced Tree Models: Bagging, Random Forests, and Boosting Trees
 
+| Lab Notes |
+| :--- |
+| [7.A Bagging Trees](https://yanyudm.github.io/Data-Mining-Python/7.%20Advanced%20Tree%20Models/7_A_Bagging_trees.html) |
+| [7.B Random Forests](https://yanyudm.github.io/Data-Mining-Python/7.%20Advanced%20Tree%20Models/7B_Advanced_Tree_Models_Random_Forests.html) |
+
 ### Nonlinearity, Generalized Additive Models (GAM), and Nonparametric Smoothing
 
 ### Neural Networks, LDA and SVM
