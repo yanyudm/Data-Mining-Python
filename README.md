@@ -26,7 +26,7 @@ These learning materials for undergraduate and graduate data mining courses are 
 | [3.A Linear Regression and Prediction](https://yanyudm.github.io/Data-Mining-Python/3.%20Linear%20Regression/3_A_Linear_regression_and_prediction.html) |
 | [3.B Subset Variable Selection](https://yanyudm.github.io/Data-Mining-Python/3.%20Linear%20Regression/3_B_Subset_Variable_Selection.html) |
 | [3.C LASSO Variable Selection](https://yanyudm.github.io/Data-Mining-Python/3.%20Linear%20Regression/3_C_LASSO_variable_selection.html) |
-| [3.D Simulation](https://yanyudm.github.io/Data-Mining-Python/3.%20Linear%20Regression/3_D_Simulation.html) |
+| [3.D Monte Carlo Simulation](https://yanyudm.github.io/Data-Mining-Python/3.%20Linear%20Regression/3_D_Simulation.html) |
 
 ### Logistic Regression
 
