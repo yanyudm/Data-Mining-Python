@@ -82,6 +82,10 @@ These learning materials for undergraduate and graduate data mining courses are 
 
 ### Unsupervised Learning: Association Rules
 
+| Lab Notes |
+| :--- |
+| [11 Association Rules](https://yanyudm.github.io/Data-Mining-Python/11.%20Association%20Rules/11_Association_Rules.html) |
+
 ### Other Topic: Basic Text Mining
 
 ### Contributors: 
