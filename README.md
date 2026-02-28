@@ -86,7 +86,11 @@ These learning materials for undergraduate and graduate data mining courses are 
 | :--- |
 | [11 Association Rules](https://yanyudm.github.io/Data-Mining-Python/11.%20Association%20Rules/11_Association_Rules.html) |
 
-### Other Topic: Basic Text Mining
+### Other Topics 1: Basic Text Mining
+
+| Lab Notes |
+| :--- |
+| [12 Basic Text Mining](https://yanyudm.github.io/Data-Mining-Python/Other%20Topics/12_Basic_Text_Mining.html) |
 
 ### Contributors: 
 
