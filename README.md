@@ -48,8 +48,8 @@ These learning materials for undergraduate and graduate data mining courses are 
 
 | Lab Notes |
 | :--- |
-| [6.A Regression Trees](https://yanyudm.github.io/Data-Mining-Python/6.%20Regression%20and%20Classification%20Trees/6_A_Regression_Trees.html) |
-| [6.B Classification Trees](https://yanyudm.github.io/Data-Mining-Python/6.%20Regression%20and%20Classification%20Trees/6_B_Classification_Trees.html) |
+| [6.A Regression Trees](https://yanyudm.github.io/Data-Mining-Python/6.%20Tree%20Models/6_A_Regression_Trees.html) |
+| [6.B Classification Trees](https://yanyudm.github.io/Data-Mining-Python/6.%20Tree%20Models/6_B_Classification_Trees.html) |
 
 ### Advanced Tree Models: Bagging, Random Forests, and Boosting Trees
 
