@@ -1,6 +1,10 @@
 # Data Mining in Python
 These learning materials for undergraduate and graduate data mining courses are based on [Dr. Yan Yu](https://www.business.uc.edu/faculty-research/obais/faculty/yan-yu.html)’s class notes. I extend my appreciation to former Ph.D. students from the Lindner College of Business for their contributions, and to [Adriana Gonzalez Sanchez](https://www.business.uc.edu/faculty-research/obais/faculty/students/adriana-gonzalez-sanchez.html) for setting up the initial GitHub page.
 
+## Instructions
+
+All files have been tested and verified in Google Colab. For best compatibility and to avoid dependency issues, we recommend running the notebooks in Google Colab.
+
 ## Lecture and Lab Notes
 
 ### Introduction to Data Mining and Python
@@ -92,9 +96,10 @@ These learning materials for undergraduate and graduate data mining courses are 
 | :--- |
 | [12 Basic Text Mining](https://yanyudm.github.io/Data-Mining-Python/Other%20Topics/12_Basic_Text_Mining.html) |
 
-### Contributors: 
+### Main Contributors: 
 
 * Adriana Gonzalez Sanchez, Ph.D. Candidate in Business Analytics
-* Zhaohu (Jonathan) Fan, Ph.D. in Business Analytics
+* Zhaohu (Jonathan) Fan, Ph.D. in Business Analytics (current position: Lecturer at Georgia Institute of Technology)
 * Amin Aminimehr, Ph.D. student in Business Analytics
 * Harsh Singal, M.S. in Business Analytics (current position: Data Scientist - Product Analytics at Asurion)
+* Former PhD students
