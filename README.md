@@ -99,7 +99,7 @@ All files have been tested and verified in Google Colab. For best compatibility 
 ### Main Contributors: 
 
 * Adriana Gonzalez Sanchez, Ph.D. Candidate in Business Analytics
-* Zhaohu (Jonathan) Fan, Ph.D. in Business Analytics (current position: Lecturer at Georgia Institute of Technology)
+* Zhaohu (Jonathan) Fan, Ph.D. in Business Analytics (Lecturer at Georgia Institute of Technology)
 * Amin Aminimehr, Ph.D. student in Business Analytics
-* Harsh Singal, M.S. in Business Analytics (current position: Data Scientist - Product Analytics at Asurion)
+* Harsh Singal, M.S. in Business Analytics (Data Scientist - Product Analytics at Asurion)
 * Former PhD students
