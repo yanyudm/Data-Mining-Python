@@ -74,9 +74,9 @@ All files have been tested and verified in Google Colab. For best compatibility 
 
 | Lab Notes |
 | :--- |
-| [9.A Neural Network Models](https://yanyudm.github.io/Data-Mining-Python/9.%20Neural%20Network/9_A_Neural_Networks_Models.html) |
-| [9.B Discriminant Analysis (Optional)](https://yanyudm.github.io/Data-Mining-Python/9.%20Neural%20Network/9_B_Discriminant_analysis.html) |
-| [9.C Support Vector Machines (SVM) (Optional)](https://yanyudm.github.io/Data-Mining-Python/9.%20Neural%20Network/9_C_Support_vector_machine.html) |
+| [9.A Neural Network Models](https://yanyudm.github.io/Data-Mining-Python/9.%20Neural%20Networks/9_A_Neural_Networks_Models.html) |
+| [9.B Discriminant Analysis (Optional)](https://yanyudm.github.io/Data-Mining-Python/9.%20Neural%20Networks/9_B_Discriminant_analysis.html) |
+| [9.C Support Vector Machines (SVM) (Optional)](https://yanyudm.github.io/Data-Mining-Python/9.%20Neural%20Networks/9_C_Support_vector_machine.html) |
 
 ### Unsupervised Learning: Clustering
 
