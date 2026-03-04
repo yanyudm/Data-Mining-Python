@@ -94,7 +94,7 @@ All files have been tested and verified in Google Colab. For best compatibility 
 
 | Lab Notes |
 | :--- |
-| [12 Basic Text Mining](https://yanyudm.github.io/Data-Mining-Python/Other%20Topics/12_Basic_Text_Mining.html) |
+| [12 Basic Text Mining](https://yanyudm.github.io/Data-Mining-Python/12.%20Basic%20Text%20Mining/12_Basic_Text_Mining.html) |
 
 ### Main Contributors: 
 
